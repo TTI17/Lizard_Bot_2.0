@@ -1,6 +1,6 @@
 import telebot
 
-token = '5180398524:AAEK0LlJKveaPlcvC3EgLNdJC5l5XAMaxFY'
+token = 'YOUR TOKEN'
 bot = telebot.TeleBot(token=token)
 censore_words = []
 admins = []
